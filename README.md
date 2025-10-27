@@ -42,7 +42,7 @@ This project demonstrates how to design a **Dynamic Filtering System** using **F
 ---
 
 ## 🗂️ Project Structure
-
+```text
 📦 Dynamic_filter_system
 │
 ├── 📁 Backend
@@ -104,7 +104,7 @@ This project demonstrates how to design a **Dynamic Filtering System** using **F
 ├── .env.example
 ├── .gitignore
 └── README.md
-
+```
 
 
 ---
